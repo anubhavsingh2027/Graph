@@ -1,6 +1,6 @@
 # 🧭 Graph Algorithms in C++ — BFS, DFS, and Dijkstra
 
-![Graph Algorithms](https://upload.wikimedia.org/wikipedia/commons/5/5d/Graph_algorithms.png)
+![Graph Algorithms](https://tse4.mm.bing.net/th/id/OIP.kSb3Y36kYyKS-8zTSQjkHwHaFE?rs=1&pid=ImgDetMain&o=7&rm=3)
 
 ## 📖 Overview
 This project is a **menu-driven C++ program** that demonstrates three fundamental graph algorithms —  
